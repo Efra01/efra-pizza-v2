@@ -1,0 +1,66 @@
+label {
+    display: inline;
+}
+
+.cancel-btn {
+    background-color: red;
+    margin-top: 10px;
+}
+.checkout-btn {
+    background-color: green;
+    margin-top: 10px;
+    margin-left: 450px;
+}
+
+.checkbox {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.checkbox-label {
+    margin-right: 40px;
+}
+
+.toppings-label {
+    display: inline-block;
+}
+
+.toppings {
+    
+    margin-left: 8px;
+    
+    display: inline;
+    width: 80px;
+    height: 200px;
+}
+
+.toppings-row-top {
+    
+    display: inline-block;
+    margin-top: 1px;
+}
+
+.toppings-row {
+    display: inline-block;
+    margin-top: 1px;
+    margin-left: 236px;
+}
+
+input, select {
+    
+    padding: 12px 20px;
+    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.width-50 {
+    width: 50%;
+}
+
+form {
+    text-align: left;
+}
+
